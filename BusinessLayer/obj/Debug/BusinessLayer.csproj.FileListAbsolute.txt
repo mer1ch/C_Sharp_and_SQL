@@ -1,0 +1,15 @@
+C:\Users\meric\source\repos\C_Sharp_Study\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\meric\source\repos\C_Sharp_Study\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\meric\source\repos\C_Sharp_Study\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\meric\source\repos\C_Sharp_Study\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\meric\source\repos\C_Sharp_Study\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\meric\source\repos\C_Sharp_Study\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\meric\source\repos\C_Sharp_Study\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\meric\source\repos\C_Sharp_Study\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\meric\source\repos\C_Sharp_Study\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\meric\source\repos\C_Sharp_Study\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\meric\source\repos\C_Sharp_Study\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\meric\source\repos\C_Sharp_Study\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\meric\source\repos\C_Sharp_Study\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\meric\source\repos\C_Sharp_Study\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\meric\source\repos\C_Sharp_Study\BusinessLayer\obj\Debug\BusinessLayer.pdb

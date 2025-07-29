@@ -1,0 +1,17 @@
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\obj\Debug\PresentationLayer.exe.config
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
