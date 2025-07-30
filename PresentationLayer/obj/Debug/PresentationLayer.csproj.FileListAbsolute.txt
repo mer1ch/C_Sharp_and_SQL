@@ -15,3 +15,10 @@ C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\EntityFram
 C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\obj\Debug\PresentationLayer.exe.config
 C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\EntityLayer.dll
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\EntityLayer.pdb
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\obj\Debug\PresentationLayer.FrmCategory.resources
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\DataAccessLayer.dll.config
