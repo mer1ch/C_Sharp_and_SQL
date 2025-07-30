@@ -22,3 +22,4 @@ C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\obj\Debug\Presentati
 C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\DataAccessLayer.dll
 C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\DataAccessLayer.pdb
 C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\meric\source\repos\C_Sharp_Study\PresentationLayer\obj\Debug\PresentationLayer.FrmProduct.resources

@@ -50,22 +50,26 @@ namespace PresentationLayer
         {
             int id = int.Parse(txtCategoryId.Text);
             var values = _categoryService.TGetById(id);
-            dataGridView1 .DataSource = values;
+            dataGridView1.DataSource = values;
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
+            int updateId = int.Parse(txtCategoryId.Text);
+            var updateValue = _categoryService.TGetById(updateId);
             bool status;
             if (rdbActive.Checked)
             {
                 status = true;
             }
-            else
+            else if (rdbPassive.Checked)
             {
                 status= false;
             }
-                int updateId = int.Parse(txtCategoryId.Text);
-            var updateValue = _categoryService.TGetById(updateId);
+            else
+            {
+                status = _categoryService.TGetById(updateId).CategoryStatus;
+            }
             if (txtCategoryName.Text != "")
             {
                 updateValue.CategoryName = txtCategoryName.Text;

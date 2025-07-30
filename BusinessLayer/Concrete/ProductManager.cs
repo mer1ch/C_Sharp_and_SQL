@@ -31,6 +31,11 @@ namespace BusinessLayer.Concrete
             return _productDAL.GetById(id);
         }
 
+        public List<object> TGetProductsWithCategory()
+        {
+            return _productDAL.GetProductsWithCategory();
+        }
+
         public void TInsert(Product entity)
         {
             _productDAL.Insert(entity);
