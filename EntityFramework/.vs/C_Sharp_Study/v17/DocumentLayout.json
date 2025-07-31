@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meric\\source\\repos\\C_Sharp_Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70AB5107-A9C9-4740-A75E-DEDDEAD57C23}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\meric\\source\\repos\\c_sharp_study\\presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70AB5107-A9C9-4740-A75E-DEDDEAD57C23}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AB5107-A9C9-4740-A75E-DEDDEAD57C23}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\meric\\source\\repos\\C_Sharp_Study\\presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70AB5107-A9C9-4740-A75E-DEDDEAD57C23}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\meric\\source\\repos\\C_Sharp_Study\\PresentationLayer\\FrmProduct.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FrmProduct.cs",
+              "ToolTip": "C:\\Users\\meric\\source\\repos\\C_Sharp_Study\\PresentationLayer\\FrmProduct.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FrmProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:39:56.204Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\meric\\source\\repos\\C_Sharp_Study\\PresentationLayer\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\FrmCategory.cs",
+              "ToolTip": "C:\\Users\\meric\\source\\repos\\C_Sharp_Study\\PresentationLayer\\FrmCategory.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\FrmCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:39:55.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
