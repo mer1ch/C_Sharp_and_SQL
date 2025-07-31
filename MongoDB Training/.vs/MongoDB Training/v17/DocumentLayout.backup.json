@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meric\\source\\repos\\MongoDB Training\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA332C01-1822-4361-8B25-4FDE7320279B}|MongoDB Training\\MongoDB Training.csproj|c:\\users\\meric\\source\\repos\\mongodb training\\mongodb training\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA332C01-1822-4361-8B25-4FDE7320279B}|MongoDB Training\\MongoDB Training.csproj|solutionrelative:mongodb training\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA332C01-1822-4361-8B25-4FDE7320279B}|MongoDB Training\\MongoDB Training.csproj|c:\\users\\meric\\source\\repos\\mongodb training\\mongodb training\\services\\customeroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA332C01-1822-4361-8B25-4FDE7320279B}|MongoDB Training\\MongoDB Training.csproj|solutionrelative:mongodb training\\services\\customeroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA332C01-1822-4361-8B25-4FDE7320279B}|MongoDB Training\\MongoDB Training.csproj|c:\\users\\meric\\source\\repos\\mongodb training\\mongodb training\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA332C01-1822-4361-8B25-4FDE7320279B}|MongoDB Training\\MongoDB Training.csproj|solutionrelative:mongodb training\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerOperations.cs",
+              "DocumentMoniker": "C:\\Users\\meric\\source\\repos\\MongoDB Training\\MongoDB Training\\Services\\CustomerOperations.cs",
+              "RelativeDocumentMoniker": "MongoDB Training\\Services\\CustomerOperations.cs",
+              "ToolTip": "C:\\Users\\meric\\source\\repos\\MongoDB Training\\MongoDB Training\\Services\\CustomerOperations.cs",
+              "RelativeToolTip": "MongoDB Training\\Services\\CustomerOperations.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:08:53.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\meric\\source\\repos\\MongoDB Training\\MongoDB Training\\Form1.cs",
+              "RelativeDocumentMoniker": "MongoDB Training\\Form1.cs",
+              "ToolTip": "C:\\Users\\meric\\source\\repos\\MongoDB Training\\MongoDB Training\\Form1.cs",
+              "RelativeToolTip": "MongoDB Training\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwEUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:15:18.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\meric\\source\\repos\\MongoDB Training\\MongoDB Training\\Form1.cs",
+              "RelativeDocumentMoniker": "MongoDB Training\\Form1.cs",
+              "ToolTip": "C:\\Users\\meric\\source\\repos\\MongoDB Training\\MongoDB Training\\Form1.cs [Design]",
+              "RelativeToolTip": "MongoDB Training\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:13:43.138Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

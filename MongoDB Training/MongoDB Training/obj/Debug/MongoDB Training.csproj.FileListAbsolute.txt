@@ -1,0 +1,44 @@
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\MongoDB Training.exe.config
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\MongoDB Training.exe
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\MongoDB Training.pdb
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\DnsClient.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\MongoDB.Bson.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\MongoDB.Driver.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\SharpCompress.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\Snappier.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\System.Buffers.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\System.Memory.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\System.Security.AccessControl.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\ZstdSharp.dll
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\DnsClient.xml
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\MongoDB.Bson.xml
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\MongoDB.Driver.xml
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\Snappier.xml
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\System.Buffers.xml
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\System.Memory.xml
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\System.Security.AccessControl.xml
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\obj\Debug\MongoDB Training.csproj.AssemblyReference.cache
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\obj\Debug\MongoDB_Training.Form1.resources
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\obj\Debug\MongoDB_Training.Properties.Resources.resources
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\obj\Debug\MongoDB Training.csproj.GenerateResource.cache
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\obj\Debug\MongoDB Training.csproj.CoreCompileInputs.cache
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\obj\Debug\MongoDB .A01CD835.Up2Date
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\obj\Debug\MongoDB Training.exe
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\obj\Debug\MongoDB Training.pdb
+C:\Users\meric\source\repos\MongoDB Training\MongoDB Training\obj\Debug\MongoDB Training.exe.config
